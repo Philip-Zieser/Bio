@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/Philip-Zieser/Bio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page, my name is Philip Zieser and I am a current Master of Science student in Business Analytics. I attained my undergrad degree in economics from Santa Clara University, graudating with Cum Laude honors as well as membership in Beta Gamma Sigma Honorary Society. I have over three years of professional experience working at Fortune 100 companies in a variety of analytical roles. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am a research assistant at the University of Iowa where I work on extracting data from websites for the Management Department. I also am in the process of creating training modules for Visual Design for graders and teaching assistants. You can take a look at a training module I created for webscraping in Python [here](https://philip-zieser.github.io/Python-Web-Scraping/).
 
-### Markdown
+Data Visualization is my specialty and I enjoy the pursuit of creating elegant, informative visualizations. Recently I completed a project looking at liquor sales across the state of Iowa in 2019. In my project, I created a dashboard in Tableau that has interactive maps which allow the user to see detailed information on liquor sales across the state. The user can look at each quarter and see how much of each different type of liquor was sold in each city. There is another interactive map that shows the same information, just for Hy-Vee. The dashboard also contains tables showing a breakdown of each product and how much was sold in each county, as well as charts which show total Iowa Sales versus Hy-Vee Sales and volume sold versus sales for each county. A PDF and PowerPoint preview of this project is available [here](https://github.com/Philip-Zieser/Hy-Vee-Liquor-Sales). Please contact me if you would like to see the Tableau version.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please see [here](https://github.com/Philip-Zieser?tab=repositories) for a full list of projects in my repository.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Philip-Zieser/Bio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am proficient in Python, R, VBA, Tableau, and Microsoft Office (including Power BI).
